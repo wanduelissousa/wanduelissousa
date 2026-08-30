@@ -5,9 +5,11 @@
 
 ## 💼 Minhas experiências até agora!
 
+<div align="center">
   #### - 
 
   Descrição.
+</div>
 
 ---
 
