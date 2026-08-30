@@ -4,10 +4,10 @@
 ---
 
 ## 💼 Minhas experiências até agora!
-#### - Stone
+#### • Empresa - Tempo
 Descrição.
 
-#### - Ifood
+#### • Empresa - Tempo
 Descrição.
 
 ---
