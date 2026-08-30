@@ -4,12 +4,8 @@
 ---
 
 ## 💼 Minhas experiências até agora!
-
-<div align="center">
-#### - Stone 
-
+#### - Stone
 Descrição.
-</div>
 
 ---
 
