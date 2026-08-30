@@ -1,6 +1,22 @@
-## Olá, Sou Wanduelis Sousa 👋🏻
+## Olá, sou Wanduelis Sousa 👋🏻
 
-## 📊 GitHub Stats
+
+---
+
+## 💼 Minhas experiências até agora!
+
+#### - Stone
+
+Descrição da vaga 
+
+
+#### - Ifood
+
+Descrição da vaga 
+
+---
+
+## 📊 GitHub estatísticas!
 
 <div align="center">
 
@@ -9,4 +25,12 @@
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wanduelissousa&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
+
+## 📪 Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanduelissousa/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+
 
