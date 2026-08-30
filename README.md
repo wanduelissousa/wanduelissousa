@@ -1,13 +1,13 @@
-## Hey there, I'm Wanduelis Sousa 👋🏻
+## Olá, Sou Wanduelis Sousa 👋🏻
 
-**Android Developer** | Passionate about creating solutions that impact people and business.
+**Android Developer**
 
 
 ---
 
-## 💼 My experiences so far 
+## 💼 Minhas experiências até agora!
 
-## 📪 Feel free to connect!
+## 📪 Vamos nos conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanduelissousa/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wanduelissousa@gmail.com)
