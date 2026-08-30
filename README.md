@@ -6,7 +6,7 @@
 ## 💼 Minhas experiências até agora!
 
 <div align="center">
-  #### - 
+  #### - Stone 
 
   Descrição.
 </div>
