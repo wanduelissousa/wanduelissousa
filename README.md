@@ -11,9 +11,9 @@
 
 ## 📊 GitHub estatísticas!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanduelissousa&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoborges&show_icons=true&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wanduelissousa&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoborges&layout=compact&theme=radical)
 
 ---
 
