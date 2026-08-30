@@ -5,12 +5,12 @@
 
 ## 💼 Minhas experiências até agora!
 
-### • Stone
+#### • Stone
 
 Description of job.
 
 
-### • Ifood
+#### • Ifood
 
 Description of job.
 
