@@ -1,14 +1,5 @@
 ## Hey there, I'm Wanduelis Sousa 👋
 
-## 📊 Github statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusuke&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuke&layout=compact&theme=tokyonight)
-
-
----
-
 ## 📪 Let's connect
 
 <div>
@@ -21,6 +12,3 @@
 </a>
 </div>
 
-
-
-![Visitors](https://komarev.com/ghpvc/?username=wanduelissousa&color=blue)
