@@ -7,9 +7,6 @@
 #### • Empresa - Tempo
 Descrição.
 
-#### • Empresa - Tempo
-Descrição.
-
 ---
 
 ## 📊 GitHub estatísticas!
