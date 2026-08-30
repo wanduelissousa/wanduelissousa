@@ -5,24 +5,14 @@
 
 ## 💼 Minhas experiências até agora!
 
-### 📱 Project Name
+### • Stone
 
-Description of your project.
-
-**Technologies:** Kotlin • Jetpack Compose • MVVM • Retrofit
-
-[View project →](https://github.com/YOUR_USERNAME/YOUR_PROJECT)
+Description of job.
 
 
+### • Ifood
 
-### 📱 Project Name
-
-Description of your project.
-
-**Technologies:** Kotlin • Android Jetpack • Room • Coroutines
-
-[View project →](https://github.com/YOUR_USERNAME/YOUR_PROJECT)
-
+Description of job.
 
 ---
 
