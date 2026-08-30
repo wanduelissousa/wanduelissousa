@@ -5,9 +5,9 @@
 
 ## 💼 Minhas experiências até agora!
 
-#### - 
+  #### - 
 
-Descrição.
+  Descrição.
 
 ---
 
