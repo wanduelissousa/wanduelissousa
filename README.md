@@ -7,6 +7,16 @@
 
 ## 💼 Minhas experiências até agora!
 
+---
+
+## 📊 GitHub estatísticas!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wanduelissousa&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wanduelissousa&layout=compact&theme=tokyonight)
+
+---
+
 ## 📪 Vamos nos conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanduelissousa/)
