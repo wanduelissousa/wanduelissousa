@@ -1,1 +1,1 @@
-## Olá, Sou Wanduelis Sousa 👋🏻
+## Hey there, I'm Wanduelis Sousa 👋🏻
